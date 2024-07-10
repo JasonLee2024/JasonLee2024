@@ -14,7 +14,7 @@
 JasonLee2024/JasonLee2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<details>
 #### Git Skill:
 * Familiar with GitFlow workflow configuration
 
@@ -23,7 +23,9 @@ You can click the Preview link to take a look at your changes.
 
 #### Automation Operations：
 * Powershell 7
-
+</details>
+<details>
 #### Git 技能:
 * 熟悉GitFlow 工作流配置
+</details>
 
