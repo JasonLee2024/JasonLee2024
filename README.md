@@ -7,7 +7,8 @@
 - Phone: Share your phone number if you prefer calls or text messages.
 - WeChat ID：
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am an enthusiast of balcony greening.
+
 
 <!---
 JasonLee2024/JasonLee2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
