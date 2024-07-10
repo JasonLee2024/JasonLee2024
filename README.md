@@ -18,8 +18,8 @@ You can click the Preview link to take a look at your changes.
 * Familiar with GitFlow workflow configuration
 
 #### Web Skill:
-* Html5 CSS3
-* Markdown LaTeX
+* Html5/CSS3/Javascript
+* Markdown/LaTeX/Python
 
 #### Automation Operations：
 * Powershell 7
