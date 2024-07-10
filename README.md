@@ -36,8 +36,7 @@ You can click the Preview link to take a look at your changes.
 * Powershell 7
 
 #### Artificial Intelligence Technology
-* Prompt Engineer
-* Expertise: Proofreading, Rewriting, Expanding, Summarizing, Translating
+* Prompt Engineer, Expertise: Proofreading, Rewriting, Expanding, Summarizing, Translating
 * Knowledge Base, RAG
 * AI Agent
 
