@@ -23,7 +23,4 @@ You can click the Preview link to take a look at your changes.
 #### Automation Operations：
 * Powershell 7
 
-#### Git 技能:
-* 熟悉GitFlow 工作流配置
-
 
