@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @JasonLee2024
 - 👀 I’m interested in programming and graphic design.
 - 🌱 I’m currently learning LLM development.
-- 💞️ I’m looking to collaborate on Web Design or Website maintenance.
+- 💞️ I’m looking to collaborate on Graphic Design or PPT Presentation Creation and Subtitle or Document Translation.
 - 📫 How to reach me ...
 - Email: amamatthew@outlook.com
 - Phone: Share your phone number if you prefer calls or text messages.
-- WeChat ID：Creative_2025
+- 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an enthusiast of balcony greening.
 
