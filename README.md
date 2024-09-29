@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning LLM development.
 - 💞️ I’m looking to collaborate on **Graphic Design** or **PPT Presentation Creation** and **Subtitle** or **Document Translation**.
 - 📫 How to reach me ...
-- Email: amamatthew@outlook.com
+- Email: 3363160936@qq.com
 - Phone: Share your phone number if you prefer calls or text messages.
 - 
 - 😄 Pronouns: He/Him
