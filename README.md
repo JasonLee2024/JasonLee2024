@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JasonLee2024
 - 👀 I’m interested in programming and graphic design.
 - 🌱 I’m currently learning LLM development.
-- 💞️ I’m looking to collaborate on Graphic Design or PPT Presentation Creation and Subtitle or Document Translation.
+- 💞️ I’m looking to collaborate on **Graphic Design** or **PPT Presentation Creation** and **Subtitle** or **Document Translation**.
 - 📫 How to reach me ...
 - Email: amamatthew@outlook.com
 - Phone: Share your phone number if you prefer calls or text messages.
